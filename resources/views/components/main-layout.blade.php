@@ -19,7 +19,14 @@
     <x-header />
 
     {{ $slot }}
-
+    <x-about />
+    <x-skills />
+    <x-qualification />
+    <x-services />
+    <x-portfolio />
+    <x-project />
+    <x-testimonial />
+    <x-contact />
     <x-footer />
 
     <!--==================== SCROLL TOP ====================-->
