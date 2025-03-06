@@ -2,7 +2,7 @@
 <header class="header" id="header">
   <nav class="nav container">
     <a href="#home" class="nav_logo">
-      John Doe
+      Daniel Henrique Bellé
     </a>
 
     <div class="nav_menu" id="nav-menu">
@@ -11,19 +11,19 @@
           <a href="#home" class="nav_link active_link">Home</a>
         </li>
         <li class="nav-item">
-          <a href="#about" class="nav_link">About</a>
+          <a href="#about" class="nav_link">Sobre</a>
         </li>
         <li class="nav-item">
           <a href="#skills" class="nav_link">Skills</a>
         </li>
         <li class="nav-item">
-          <a href="#services" class="nav_link">Services</a>
+          <a href="#services" class="nav_link">Serviços</a>
         </li>
         <li class="nav-item">
-          <a href="#portfolio" class="nav_link">Portfolio</a>
+          <a href="#portfolio" class="nav_link">Portfólio</a>
         </li>
         <li class="nav-item">
-          <a href="#contact" class="nav_link">Contact Me</a>
+          <a href="#contact" class="nav_link">Contato</a>
         </li>
       </ul>
 

@@ -1,7 +1,7 @@
 <!--==================== SKILLS ====================-->
 <section class="skills section" id="skills">
   <h2 class="section__title">Skills</h2>
-  <span class="section__subtitle">My technical lever</span>
+  <span class="section__subtitle">Conhecimento técnico</span>
 
   <div class="skills_container container grid">
     <div>
@@ -47,6 +47,9 @@
           </div>
         </div>
       </div>
+
+    </div>
+    <div>
       <!--=========== SKILL 2 ============-->
       <div class="skills_content skills_open">
         <div class="skills_header">
@@ -99,58 +102,6 @@
         </div>
       </div>
     </div>
-    <div>
-      <!--=========== SKILL 3 ============-->
-      <div class="skills_content skills_open">
-        <div class="skills_header">
-          <i class="uil uil-server-network skills_icon"></i>
 
-          <div>
-            <h1 class="skills_title">Designer</h1>
-            <span class="skills_subtitle">More than 5 years</span>
-          </div>
-
-          <i class="uil uil-angle-down skills_arrow"></i>
-        </div>
-        <div class="skills_list grid">
-          <div class="skills_data">
-            <div class="skills_titles">
-              <h3 class="skills_name">Figma</h3>
-              <span class="skills_number">90%</span>
-            </div>
-            <div class="skills_bar">
-              <span class="skills_percentage skills_figma"></span>
-            </div>
-          </div>
-          <div class="skills_data">
-            <div class="skills_titles">
-              <h3 class="skills_name">Sketch</h3>
-              <span class="skills_number">85%</span>
-            </div>
-            <div class="skills_bar">
-              <span class="skills_percentage skills_sketch"></span>
-            </div>
-          </div>
-          <div class="skills_data">
-            <div class="skills_titles">
-              <h3 class="skills_name">Adobe XD</h3>
-              <span class="skills_number">80%</span>
-            </div>
-            <div class="skills_bar">
-              <span class="skills_percentage skills_adobexd"></span>
-            </div>
-          </div>
-          <div class="skills_data">
-            <div class="skills_titles">
-              <h3 class="skills_name">Photoshop</h3>
-              <span class="skills_number">85%</span>
-            </div>
-            <div class="skills_bar">
-              <span class="skills_percentage skills_photoshop"></span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </section>

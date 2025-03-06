@@ -1,17 +1,17 @@
 <!--==================== QUALIFICATION ====================-->
 <section class="qualification section">
-  <h2 class="section__title">Qualification</h2>
-  <span class="section__subtitle">My personal journel</span>
+  <h2 class="section__title">Qualificações</h2>
+  <span class="section__subtitle">Meu histórico</span>
 
   <div class="qualification_container container">
     <div class="qualification_tabs">
       <div class="qualificaction_button button--flex qualification_active" data-target="#education">
         <i class="uil uil-graduation-cap qualification_icon"></i>
-        Education
+        &nbsp;Formação&nbsp;
       </div>
-      <div class="qualificaction_button button--flex" data-target="#work">
+      <div class="qualificaction_button button--flex " data-target="#work">
         <i class="uil uil-briefcase-alt qualification-icon"></i>
-        Work
+        &nbsp;Trabalhos
       </div>
     </div>
 
