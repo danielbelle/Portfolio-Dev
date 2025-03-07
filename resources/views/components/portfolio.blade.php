@@ -1,7 +1,7 @@
 <!--==================== PORTFOLIO ====================-->
 <section class="portfolio section" id="portfolio">
-  <h2 class="section__title">Portfolio</h2>
-  <span class="section__subtitle">Most recent work</span>
+  <h2 class="section__title">Portfólio</h2>
+  <span class="section__subtitle">Trabalhos mais recentes</span>
 
   <div class="portfolio_container container swiper-container">
     <div class="swiper-wrapper">

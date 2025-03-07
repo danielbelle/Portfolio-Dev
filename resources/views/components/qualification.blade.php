@@ -21,11 +21,11 @@
         <!--============= QUALIFICATION 1 ===========-->
         <div class="qualification_data">
           <div>
-            <h3 class="qualification_title">Computer Science</h3>
-            <span class="qualification_subtitle">Germany-University</span>
+            <h3 class="qualification_title">Análise de Sistemas</h3>
+            <span class="qualification_subtitle">Instituto Federal do Rio Grande do Sul</span>
             <div class="qualificaation_calender">
               <i class="uil uil-calender-alt"></i>
-              2009 - 2014
+              2025
             </div>
           </div>
           <div>
@@ -43,11 +43,11 @@
           </div>
 
           <div>
-            <h3 class="qualification_title">Web Design</h3>
-            <span class="qualification_subtitle">Germany-Institute</span>
+            <h3 class="qualification_title">Análise de Sistemas</h3>
+            <span class="qualification_subtitle">Instituto Federal do Rio Grande do Sul</span>
             <div class="qualificaation_calender">
               <i class="uil uil-calender-alt"></i>
-              2014 - 2017
+              2025
             </div>
           </div>
 
@@ -55,11 +55,11 @@
         <!--============= QUALIFICATION 3 ===========-->
         <div class="qualification_data">
           <div>
-            <h3 class="qualification_title">Web Development</h3>
-            <span class="qualification_subtitle">Germany-Institute</span>
+            <h3 class="qualification_title">Engenharia Elétrica</h3>
+            <span class="qualification_subtitle">Universidade Federal de Santa Catarina</span>
             <div class="qualificaation_calender">
               <i class="uil uil-calender-alt"></i>
-              2017 - 2019
+              2013
             </div>
           </div>
           <div>

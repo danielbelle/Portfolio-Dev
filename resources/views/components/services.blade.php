@@ -1,10 +1,10 @@
 <!--==================== SERVICES ====================-->
 <section class="services section" id="services">
-  <h2 class="section__title">Services</h2>
-  <span class="section__subtitle">What is offer</span>
+  <h2 class="section__title">Serviços</h2>
+  <span class="section__subtitle">Áreas atendidas</span>
 
   <div class="services_container container grid">
-    <!--============== SERVICES 1 =============-->
+    <!--============== SERVICES 1 =============
     <div class="services_content">
       <div>
         <i class="uil uil-web-grid services_icon"></i>
@@ -40,39 +40,39 @@
           </ul>
         </div>
       </div>
-    </div>
+    </div>-->
     <!--============== SERVICES 2 =============-->
     <div class="services_content">
       <div>
         <i class="uil uil-web-grid services_icon"></i>
-        <h3 class="services_title">Frontend <br> Developer</h3>
+        <h3 class="services_title">Desenvolvedor <br> Front-end</h3>
       </div>
       <span class="button button--flex button--small button--link services_button">
-        View More
+        Ver Mais
         <i class="uil uil-arrow-right button_icon"></i>
       </span>
 
       <div class="services_modal">
         <div class="services_modal-content">
-          <h4 class="services_modal-title">Frontend <br> Developer</h4>
+          <h4 class="services_modal-title">Desenvolvedor <br> Front-end</h4>
           <i class="uil uil-times services_modal-close"></i>
 
           <ul class="services_modal-services grid">
             <li class="services_modal-service">
               <i class="uil uil-check-circle services_modal-icon"></i>
-              <p>I develop the user interface</p>
+              <p>Desenvolvimento da interface do usuário</p>
             </li>
             <li class="services_modal-service">
               <i class="uil uil-check-circle services_modal-icon"></i>
-              <p>Web page development</p>
+              <p>Página empresarial</p>
             </li>
             <li class="services_modal-service">
               <i class="uil uil-check-circle services_modal-icon"></i>
-              <p>I create ux element interactions</p>
+              <p>Dashboards e gráficos em tempo real</p>
             </li>
             <li class="services_modal-service">
               <i class="uil uil-check-circle services_modal-icon"></i>
-              <p>I position your company brand.</p>
+              <p>Marketplace</p>
             </li>
           </ul>
         </div>
@@ -82,40 +82,40 @@
     <div class="services_content">
       <div>
         <i class="uil uil-web-grid services_icon"></i>
-        <h3 class="services_title">Backend <br> Developer</h3>
+        <h3 class="services_title">Desenvolvedor <br> Back-end</h3>
       </div>
       <span class="button button--flex button--small button--link services_button">
-        View More
+        Ver Mais
         <i class="uil uil-arrow-right button_icon"></i>
       </span>
 
       <div class="services_modal">
         <div class="services_modal-content">
-          <h4 class="services_modal-title">Backend <br> Developer</h4>
+          <h4 class="services_modal-title">Desenvolvedor <br> Back-end</h4>
           <i class="uil uil-times services_modal-close"></i>
 
           <ul class="services_modal-services grid">
             <li class="services_modal-service">
               <i class="uil uil-check-circle services_modal-icon"></i>
-              <p>I develop the user interface</p>
+              <p>Melhor solução para armazenar dados</p>
             </li>
             <li class="services_modal-service">
               <i class="uil uil-check-circle services_modal-icon"></i>
-              <p>Web page development</p>
+              <p>Controle eficiente do consumo da sua página</p>
             </li>
             <li class="services_modal-service">
               <i class="uil uil-check-circle services_modal-icon"></i>
-              <p>I create ux element interactions</p>
+              <p></p>
             </li>
             <li class="services_modal-service">
               <i class="uil uil-check-circle services_modal-icon"></i>
-              <p>I position your company brand.</p>
+              <p></p>
             </li>
           </ul>
         </div>
       </div>
     </div>
-    <!--============== SERVICES 4 =============-->
+    <!--============== SERVICES 4 =============
     <div class="services_content">
       <div>
         <i class="uil uil-web-grid services_icon"></i>
@@ -151,6 +151,6 @@
           </ul>
         </div>
       </div>
-    </div>
+    </div>-->
   </div>
 </section>

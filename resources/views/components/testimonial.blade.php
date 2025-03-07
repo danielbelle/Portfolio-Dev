@@ -1,7 +1,7 @@
 <!--==================== TESTIMONIAL ====================-->
 <section class="testimonial section">
-  <h2 class="section__title">Testimonial</h2>
-  <span class="section__subtitle">My client saying</span>
+  <h2 class="section__title">Indicação</h2>
+  <span class="section__subtitle">Meus clientes</span>
 
   <div class="testimonial_container container swiper-container">
     <div class="swiper-wrapper">
@@ -62,7 +62,7 @@
             <img src="assets/img/testimonial3.jpeg" alt="" class="testimonial_img">
 
             <div>
-              <h3 class="testimonial_name">Mike Smith</h3>
+              <h3 class="testimonial_name">Michael Silva</h3>
               <span class="testimonial_client">Client</span>
             </div>
           </div>
@@ -76,8 +76,8 @@
           </div>
         </div>
         <p class="testimonial_description">
-          I get a good impression,I carry out my project with all the possible
-          quality and attention and support 24 hours a day.
+          Tenho uma boa impressão, realizo meu projeto com toda a qualidade e atenção possíveis e suporte 24 horas por
+          dia.
         </p>
       </div>
 
