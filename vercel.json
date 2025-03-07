@@ -8,6 +8,10 @@
     },
     "routes": [
         {
+            "src": "/(css|js|vendor|assets|build)/(.*)",
+            "dest": "public/$1/$2"
+        },
+        {
             "src": "/build/(.*)",
             "dest": "/build/$1"
         },
@@ -19,7 +23,7 @@
     "env": {
         "APP_URL": "daniel-portfolio-projects.vercel.app",
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
