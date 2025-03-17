@@ -11,8 +11,8 @@
           <i class="uil uil-brackets-curly skills_icon"></i>
 
           <div>
-            <h1 class="skills_title">Frontend developer</h1>
-            <span class="skills_subtitle">More than 4 years</span>
+            <h1 class="skills_title">Desenvolvedor Front-end</h1>
+            <span class="skills_subtitle">Mais de 3 anos</span>
           </div>
 
           <i class="uil uil-angle-down skills_arrow"></i>
@@ -39,7 +39,7 @@
           <div class="skills_data">
             <div class="skills_titles">
               <h3 class="skills_name">JavaScript</h3>
-              <span class="skills_number">60%</span>
+              <span class="skills_number">90%</span>
             </div>
             <div class="skills_bar">
               <span class="skills_percentage skills_javascript"></span>
@@ -56,8 +56,8 @@
           <i class="uil uil-server-network skills_icon"></i>
 
           <div>
-            <h1 class="skills_title">Backend developer</h1>
-            <span class="skills_subtitle">More than 7 years</span>
+            <h1 class="skills_title">Desenvolvedor Back-end</h1>
+            <span class="skills_subtitle">Mais de 2 anos</span>
           </div>
 
           <i class="uil uil-angle-down skills_arrow"></i>
@@ -74,7 +74,7 @@
           </div>
           <div class="skills_data">
             <div class="skills_titles">
-              <h3 class="skills_name">Node J6</h3>
+              <h3 class="skills_name">Node JS</h3>
               <span class="skills_number">80%</span>
             </div>
             <div class="skills_bar">
@@ -90,15 +90,7 @@
               <span class="skills_percentage skills_python"></span>
             </div>
           </div>
-          <div class="skills_data">
-            <div class="skills_titles">
-              <h3 class="skills_name">Ruby</h3>
-              <span class="skills_number">55%</span>
-            </div>
-            <div class="skills_bar">
-              <span class="skills_percentage skills_ruby"></span>
-            </div>
-          </div>
+
         </div>
       </div>
     </div>
